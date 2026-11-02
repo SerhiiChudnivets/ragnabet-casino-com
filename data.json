@@ -183,14 +183,14 @@
   "home_name": "RagnaBet Casino",
   "subdomains": null,
   "accent_color": "#d4af37",
-  "main_background": "#02060d",
-  "secondary_background": "#030914",
-  "button_background": "#194168",
-  "button_text_color": "#FFFFFF",
+  "main_background": "#04060a",
+  "secondary_background": "#080a0e",
+  "button_background": "#88edff",
+  "button_text_color": "#0d1719",
   "text_color": "#FFFFFF",
   "color_highlight_text": "#FFFFFF",
-  "color_main_btn_text": "#030816",
-  "cta_background": "#7ed24a",
+  "color_main_btn_text": "#0d1719",
+  "cta_background": "#88edff",
   "logo": {
     "url": "/uploads/940467d8817223f37329afe0fe009ce8.webp",
     "alt": "ragnabet logo"
@@ -218,7 +218,7 @@
     },
     {
       "link": "/play/",
-      "label": "Games",
+      "label": "Slots",
       "submenu": [],
       "openInNewTab": false
     },
@@ -354,9 +354,9 @@
       "question": "How do I complete the RagnaBet Casino Login process?"
     }
   ],
-  "_generated_at": "2026-11-02T16:46:43.363Z",
+  "_generated_at": "2026-11-02T16:49:31.585Z",
   "_version": "1.0.0",
   "content_alt": "ragnabet slot",
-  "_last_deploy": "2026-11-02T16:46:44.004Z",
-  "_deploy_trigger": "ngxx1"
+  "_last_deploy": "2026-11-02T16:49:32.189Z",
+  "_deploy_trigger": "ls28lk"
 }
