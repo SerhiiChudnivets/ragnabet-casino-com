@@ -1,0 +1,189 @@
+{
+  "name": "ragnabet-casino.com",
+  "site_name": "RagnaBet Casino | Login & Bonus up to 100% + £850",
+  "html_head": "<link rel=\"canonical\" href=\"https://pike-casino.de/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Pike Casino – Spielen, Willkommensbonus Sichern & Gewinnen\">\n<meta property=\"og:description\" content=\"Entdecken Sie unser Pike Casino! Exklusive Boni, sichere Auszahlungen in Euro und Live-Unterhaltung. Registrieren Sie sich jetzt bei Pike Casino!\">\n<meta property=\"og:url\" content=\"pike-casino.de\">\n<meta property=\"og:site_name\" content=\"Pike Casino\">",
+  "url": "ragnabet-casino.com",
+  "template": "tupchiy",
+  "language_code": "en",
+  "allow_indexing": false,
+  "redirect_404s_to_homepage": true,
+  "use_www_version": false,
+  "breadcrumbs": false,
+  "content": "<p></p><p></p>",
+  "pages": [],
+  "faq_schema": null,
+  "seo_description": "Explore our complete guide to RagnaBet Casino. Discover our premium live dealer tables, top slots, seamless RagnaBet Casino Login, exclusive bonuses.",
+  "redirect_site": null,
+  "hero_title": "Pike Casino – Spielen und Bonus sichern",
+  "hero_subtitle": "Willkommensbonus",
+  "hero_badge": "Pike Casino: Online-Slots spielen",
+  "cta_text": "Play Now",
+  "tagline": "550% + 400 Free Spins",
+  "features_list": null,
+  "footer_text": "© 2026. Pike Casino. All rights reserved",
+  "popup_text": "Bonus 550% + 400 Free Spins",
+  "faq_title": "FAQ",
+  "login_text": "Log In",
+  "register_text": "Register",
+  "slots_title": "Die besten Casino-Slots – Pike Casino",
+  "bonus_title": "Pike Casino: Holen Sie sich Willkommenspakete und wöchentliche Boni",
+  "get_bonus_btn_text": "Claim Your Bonus",
+  "redirect_link": "/play/",
+  "home_name": "RagnaBet Casino",
+  "subdomains": null,
+  "accent_color": "#d4af37",
+  "main_background": "#02060d",
+  "secondary_background": "#030914",
+  "button_background": "#194168",
+  "button_text_color": "#FFFFFF",
+  "text_color": "#FFFFFF",
+  "color_highlight_text": "#FFFFFF",
+  "color_main_btn_text": "#030816",
+  "cta_background": "#7ed24a",
+  "logo": {
+    "url": "/uploads/f81c9d3278089a2d87fc824eeff929d7.webp",
+    "alt": "ragnabet logo"
+  },
+  "popup_logo": {
+    "url": "/uploads/f81c9d3278089a2d87fc824eeff929d7.webp",
+    "alt": "ragnabet logo"
+  },
+  "main_background_img": {
+    "url": "/uploads/2358b78ccd9f610b12b1fdd6aa4f83f4.webp",
+    "alt": "ragnabet casino"
+  },
+  "header_menu": [
+    {
+      "link": "/play/",
+      "label": "Login",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": " Promotions",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Games",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Payments",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Mobile",
+      "submenu": [],
+      "openInNewTab": false
+    }
+  ],
+  "footer_menu": [
+    {
+      "link": "/play/",
+      "label": "Responsible Gaming",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Privacy Policy",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Cookies Policy",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Terms & Conditions",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Contacts",
+      "submenu": [],
+      "openInNewTab": false
+    }
+  ],
+  "footer_images": [
+    {
+      "link": "/play/",
+      "image": "/uploads/29ad6e8e1fc087f97738038aa420f4ea.svg",
+      "image_alt": "18+"
+    }
+  ],
+  "Slots": [
+    {
+      "link": "/play/",
+      "logo": "/uploads/266f409efeba053bbeb20e8ae5943918.webp",
+      "name": "Sea of Spirits",
+      "Name": "Sea of Spirits",
+      "logo_alt": "sea of spirits"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/205c4d625fda34c8752d432902bc7275.webp",
+      "name": "Big Bass Splash",
+      "Name": "Big Bass Splash",
+      "logo_alt": "big bass splash"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/031de5e2b6779dfca9f31d5fd9e7cc51.webp",
+      "name": "Razor Shark",
+      "Name": "Razor Shark",
+      "logo_alt": "Razor Shark"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/498dbf89ecad9e8a4c63a2acc87cb117.webp",
+      "name": "Penalty Shoot",
+      "Name": "Penalty Shoot",
+      "logo_alt": "Penalty Shoot"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/672a04bafac82bac397c4e5bb773a89f.webp",
+      "name": "Big Bass Bonanza",
+      "Name": "Big Bass Bonanza",
+      "logo_alt": "Big Bass Bonanza"
+    }
+  ],
+  "Bonuses": [
+    {
+      "link": "/play/",
+      "logo": "/uploads/aa472f4374d9b6987755272b5bc876b7.webp",
+      "name": "Welcome Bonus 550% + 400 FS",
+      "Name": "Welcome Bonus 550% + 400 FS"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/8168e46f1c4b642e6a6bca6521bfce04.webp",
+      "name": "Daily Cashback Earn a 10%",
+      "Name": "Daily Cashback Earn a 10%"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/3d2529a6cb8a447db4427a8d609d0bfa.webp",
+      "name": "Weekly Cashback Receive 10%",
+      "Name": "Weekly Cashback Receive 10%"
+    }
+  ],
+  "Reviews": null,
+  "FAQ": [],
+  "_generated_at": "2026-11-02T16:10:22.541Z",
+  "_version": "1.0.0",
+  "_last_deploy": "2026-11-02T16:10:26.982Z",
+  "_deploy_trigger": "evy1qg"
+}
