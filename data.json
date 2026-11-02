@@ -86,16 +86,16 @@
   "color_main_btn_text": "#030816",
   "cta_background": "#7ed24a",
   "logo": {
-    "url": "/uploads/f81c9d3278089a2d87fc824eeff929d7.webp",
+    "url": "/uploads/940467d8817223f37329afe0fe009ce8.webp",
     "alt": "ragnabet logo"
   },
   "popup_logo": {
-    "url": "/uploads/f81c9d3278089a2d87fc824eeff929d7.webp",
+    "url": "/uploads/940467d8817223f37329afe0fe009ce8.webp",
     "alt": "ragnabet logo"
   },
   "main_background_img": {
-    "url": "/uploads/2358b78ccd9f610b12b1fdd6aa4f83f4.webp",
-    "alt": "ragnabet casino"
+    "url": "/uploads/5a5e76afe941cd66d6d24dd514b4a218.webp",
+    "alt": "ragnabet baner"
   },
   "header_menu": [
     {
@@ -248,9 +248,9 @@
       "question": "How do I complete the RagnaBet Casino Login process?"
     }
   ],
-  "_generated_at": "2026-11-02T16:36:59.754Z",
+  "_generated_at": "2026-11-02T16:45:54.040Z",
   "_version": "1.0.0",
   "content_alt": "ragnabet slot",
-  "_last_deploy": "2026-11-02T16:37:00.430Z",
-  "_deploy_trigger": "h6qbzk"
+  "_last_deploy": "2026-11-02T16:45:54.701Z",
+  "_deploy_trigger": "kps4brh"
 }
