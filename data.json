@@ -182,7 +182,7 @@
   "subdomains": null,
   "accent_color": "#d4af37",
   "main_background": "#04060a",
-  "secondary_background": "#080a0e",
+  "secondary_background": "#000000",
   "button_background": "#88edff",
   "button_text_color": "#0d1719",
   "text_color": "#FFFFFF",
@@ -350,9 +350,9 @@
       "question": "How do I complete the RagnaBet Casino Login process?"
     }
   ],
-  "_generated_at": "2026-11-03T09:01:20.870Z",
+  "_generated_at": "2026-11-03T09:03:04.213Z",
   "_version": "1.0.0",
   "content_alt": "ragnabet slot",
-  "_last_deploy": "2026-11-03T09:01:21.588Z",
-  "_deploy_trigger": "0u9v"
+  "_last_deploy": "2026-11-03T09:03:04.867Z",
+  "_deploy_trigger": "mggc3"
 }
