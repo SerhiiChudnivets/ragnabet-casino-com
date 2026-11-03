@@ -32,7 +32,7 @@
       "lang": "en-GB",
       "faqTitle": "FAQ",
       "popupText": "Bonus 420% up to £15,000 + 440 FS",
-      "popupLogo": "/uploads/940467d8817223f37329afe0fe009ce8.webp",
+      "popupLogo": "/uploads/9b9613716c77467dbc29acf7d8c928c3.webp",
       "sections": null,
       "slots": [
         {
@@ -100,7 +100,7 @@
       "globalSlotSet": null,
       "globalReviewSet": null,
       "popup_text": "Bonus 420% up to £15,000 + 440 FS",
-      "popup_logo": "/uploads/940467d8817223f37329afe0fe009ce8.webp",
+      "popup_logo": "/uploads/9b9613716c77467dbc29acf7d8c928c3.webp",
       "hero_title": "RagnaBet Casino — Instant Cashouts, Top Slots and Exclusive Bonuses",
       "hero_subtitle": "Welcome Bonus",
       "hero_image": "/uploads/5a5e76afe941cd66d6d24dd514b4a218.webp",
@@ -112,8 +112,6 @@
       "cta_text": "Play Now",
       "content_alt": "ragnabet slot",
       "heroImage_alt": "ragnabet baner",
-      "popupLogo_alt": "ragnabet logo",
-      "popup_logo_alt": "ragnabet logo",
       "hero_image_alt": "ragnabet baner"
     }
   ],
@@ -192,12 +190,10 @@
   "color_main_btn_text": "#0d1719",
   "cta_background": "#88edff",
   "logo": {
-    "url": "/uploads/940467d8817223f37329afe0fe009ce8.webp",
-    "alt": "ragnabet logo"
+    "url": "/uploads/9b9613716c77467dbc29acf7d8c928c3.webp"
   },
   "popup_logo": {
-    "url": "/uploads/940467d8817223f37329afe0fe009ce8.webp",
-    "alt": "ragnabet logo"
+    "url": "/uploads/9b9613716c77467dbc29acf7d8c928c3.webp"
   },
   "main_background_img": {
     "url": "/uploads/5a5e76afe941cd66d6d24dd514b4a218.webp",
@@ -354,9 +350,9 @@
       "question": "How do I complete the RagnaBet Casino Login process?"
     }
   ],
-  "_generated_at": "2026-11-02T16:49:31.585Z",
+  "_generated_at": "2026-11-03T09:01:20.870Z",
   "_version": "1.0.0",
   "content_alt": "ragnabet slot",
-  "_last_deploy": "2026-11-02T16:49:32.189Z",
-  "_deploy_trigger": "ls28lk"
+  "_last_deploy": "2026-11-03T09:01:21.588Z",
+  "_deploy_trigger": "0u9v"
 }
